@@ -48,5 +48,5 @@ The Training and testing data set used for training and validating the neural ne
 The data set contains image vectors with each vector representing input image features i.e. the different pixel values and a label vector labeling the 0 or 1 depending upon the image.
 
 How to run Code:
-Run the python script named “image_classify.py” .
-The “image_classify.py” imports within it the “classifier.py” python script which is also present in the same folder.
+Run the python script named “image_classify_final.py” .
+The “image_classify_final.py” imports within it the “classifier.py” python script which is also present in the same folder.
