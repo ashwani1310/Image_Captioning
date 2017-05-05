@@ -43,7 +43,8 @@ For GPU system:
 https://cntk.ai/PythonWheel/GPU/cntk-2.0rc2-cp27-cp27m-win_amd64.whl
 
 
-Data Set:
+Downloading Data Set:
+Link to download dataset : 'http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz'
 The Training and testing data set used for training and validating the neural network is the CIFAR-10 dataset comprising of 50,000 images.
 The data set contains image vectors with each vector representing input image features i.e. the different pixel values and a label vector labeling the 0 or 1 depending upon the image.
 
